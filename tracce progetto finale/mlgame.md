@@ -12,7 +12,7 @@ Il programma partirà da zero (non sa nulla dei tuoi gusti) e dovrà imparare in
 
 Utilizzeremo un dataset contenente le **audio features** (caratteristiche numeriche) delle canzoni.
 
-  * **Fonte Consigliata:** [Spotify Tracks Dataset su Kaggle](https://www.google.com/search?q=https://www.kaggle.com/datasets/maharshipandya/thompson-sampling-spotify-dataset) (o simili che contengono colonne come `danceability`, `energy`, `valence`, `tempo`, `acousticness`).
+  * **Fonte Consigliata:** [Spotify Tracks Dataset su Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) (o simili che contengono colonne come `danceability`, `energy`, `valence`, `tempo`, `acousticness`).
   * **Perché questo dataset?** Perché trasforma la musica in numeri. Ad esempio:
       * `Energy` (0.0 - 1.0): Quanto è intensa la canzone.
       * `Valence` (0.0 - 1.0): Quanto è "felice" (1.0) o "triste" (0.0) la canzone.
